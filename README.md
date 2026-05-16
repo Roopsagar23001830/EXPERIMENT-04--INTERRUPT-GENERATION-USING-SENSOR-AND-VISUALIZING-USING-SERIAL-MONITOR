@@ -279,6 +279,11 @@ Connection Established with Serial Port Utility and Cricuit Board
 
 <img width="1600" height="739" alt="without hand" src="https://github.com/user-attachments/assets/73d9a103-c1f8-4f3b-a0ad-28a95a0ce52d" />
 
+Output screen shots of serial port utility 
+
+<img width="1919" height="1079" alt="Screenshot 2026-05-16 091727" src="https://github.com/user-attachments/assets/3d9433d2-55f9-4252-a505-e396555e6c43" />
+
+
  ## Circuit board :
  
  <img width="630" height="517" alt="cropped" src="https://github.com/user-attachments/assets/a2a1af32-d80e-4382-b268-2aa7455cedc4" />
